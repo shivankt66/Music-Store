@@ -3,7 +3,7 @@
 A simple **React.js** application that allows users to search for songs and play them using the **iTunes API**. The app fetches songs using **Axios**, processes the JSON response, and displays the results on the UI.
 
 ## 🖼️ Project Preview
-![Music Store Preview](preview.png)
+![Music Store Preview](Music_store.png)
 
 *(Add a screenshot of your project and save it as `preview.png` in the root folder.)*
 
