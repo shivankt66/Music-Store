@@ -5,6 +5,9 @@ A simple **React.js** application that allows users to search for songs and play
 ## 🖼️ Project Preview
 ![Music Store Preview](preview.png)
 
+## 🚀 Demo
+> 🌐 [Live Demo Link](https://reliable-hotteok-9dc0df.netlify.app/)
+
 ## 🚀 Features
 - Search for songs using the **iTunes API**
 - Display search results with song details
